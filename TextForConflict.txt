@@ -1,4 +1,4 @@
 string displayOne = "Test For Conflict";
 string displayTwo = "Load External Merge Tool";
-string displayThree = "Modify By Neo At 07/12/2021 11:10 am";
+string displayThree = "Modify By Neo At 07/12/2021 12：00 pm";
 string displayFour = "Modify By Neo at SourceTree";
